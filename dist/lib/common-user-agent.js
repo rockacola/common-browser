@@ -10,6 +10,13 @@ class CommonUserAgent {
         const randomIndex = Math.floor(Math.random() * ua_json_1.default.length);
         return ua_json_1.default[randomIndex].ua;
     }
+    static getByRank(rank) {
+        var _a;
+        return (_a = ua_json_1.default.find((ua) => ua.rank === rank)) === null || _a === void 0 ? void 0 : _a.ua;
+    }
+    static getTotalLength() {
+        return ua_json_1.default.length;
+    }
 }
 exports.CommonUserAgent = CommonUserAgent;
 //# sourceMappingURL=common-user-agent.js.map
