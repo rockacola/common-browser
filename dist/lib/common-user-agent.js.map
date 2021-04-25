@@ -1,0 +1,1 @@
+{"version":3,"file":"common-user-agent.js","sourceRoot":"","sources":["../../lib/common-user-agent.ts"],"names":[],"mappings":";;;;;;AAAA,8DAAwC;AAExC,MAAa,eAAe;IAC1B,MAAM,CAAC,SAAS;QACd,MAAM,WAAW,GAAG,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,EAAE,GAAG,iBAAU,CAAC,MAAM,CAAC,CAAA;QACjE,OAAO,iBAAU,CAAC,WAAW,CAAC,CAAC,EAAE,CAAA;IACnC,CAAC;CACF;AALD,0CAKC"}
