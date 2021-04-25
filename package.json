@@ -2,8 +2,8 @@
   "name": "common-browser",
   "version": "0.1.0",
   "description": "A JavaScript library to provide the most common User Agents used on the Internet.",
-  "main": "dist/index",
-  "types": "dist/index",
+  "main": "dist/lib/index",
+  "types": "dist/lib/index",
   "files": [
     "dist"
   ],
