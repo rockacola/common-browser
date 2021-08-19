@@ -99,17 +99,17 @@
   },
   {
     "rank": 15,
-    "ua": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)",
-    "software": "Internet Explorer 6",
-    "os": "Windows",
-    "engine": "Trident"
-  },
-  {
-    "rank": 16,
     "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36",
     "software": "Chrome 44",
     "os": "Linux",
     "engine": "Blink"
+  },
+  {
+    "rank": 16,
+    "ua": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)",
+    "software": "Internet Explorer 6",
+    "os": "Windows",
+    "engine": "Trident"
   },
   {
     "rank": 17,
@@ -134,24 +134,24 @@
   },
   {
     "rank": 20,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+    "software": "Internet Explorer 11",
+    "os": "Windows",
+    "engine": "Trident"
+  },
+  {
+    "rank": 21,
     "ua": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)",
     "software": "Internet Explorer 7",
     "os": "Windows",
     "engine": "Trident"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57",
     "software": "Webkit based browser",
     "os": "iOS",
     "engine": "WebKit"
-  },
-  {
-    "rank": 22,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "software": "Internet Explorer 11",
-    "os": "Windows",
-    "engine": "Trident"
   },
   {
     "rank": 23,
@@ -267,16 +267,16 @@
   },
   {
     "rank": 39,
-    "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1",
-    "software": "Chrome 21",
-    "os": "Windows",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1",
+    "software": "Safari 13.1",
+    "os": "iOS",
     "engine": "WebKit"
   },
   {
     "rank": 40,
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1",
-    "software": "Safari 13.1",
-    "os": "iOS",
+    "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1",
+    "software": "Chrome 21",
+    "os": "Windows",
     "engine": "WebKit"
   },
   {
@@ -330,22 +330,22 @@
   },
   {
     "rank": 48,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
-    "software": "Chrome 80",
-    "os": "Windows",
-    "engine": "Blink"
-  },
-  {
-    "rank": 49,
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
     "software": "Chrome 79",
     "os": "Windows",
     "engine": "Blink"
   },
   {
+    "rank": 49,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
+    "software": "Chrome 80",
+    "os": "Windows",
+    "engine": "Blink"
+  },
+  {
     "rank": 50,
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
-    "software": "Safari 13",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1",
+    "software": "Safari 14.1",
     "os": "iOS",
     "engine": "WebKit"
   }
